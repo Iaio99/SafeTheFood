@@ -1,0 +1,3 @@
+The system shall provide a search bar, to find the desired products.
+The system shall be able to access the user's location.
+The system shall provide for a payment method.
