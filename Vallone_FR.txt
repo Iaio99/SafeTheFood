@@ -1,3 +1,0 @@
-The system shall provide a review functionality.
-The system shall be able to save user's favourite products.
-The system shall provide an account manager to delete the stores that don't follow application guidelines.

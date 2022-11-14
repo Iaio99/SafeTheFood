@@ -1,3 +1,0 @@
-As a user, I want to save my favourite products, so that I can find them easily.
-As a store, I want to add a discount percentage if the user buys more than one product, so that the user is more enticed to buy more products.
-As a user, I want to see when the product expires, so that I can buy fresher products.
